@@ -1,0 +1,35 @@
+p{
+	color:red;
+}
+/*csscode here*/
+body{
+	background-color: #A6E6F4;
+}
+#parent{
+	background-color: #FEFEFE;
+	margin:10%;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 5%;
+	/*padding: 1%*/
+}
+.child{
+	background-color: #9FC4C1;
+	margin: 4%;
+	width:25%;
+	border-radius: 5%;
+	box-shadow:4px 4px 4px 4px ;
+}
+img{
+	height: 40%;
+	width: 70%;
+	margin:5%;
+	border-radius: 30%;
+}
+p{
+	font-size: 25px;
+
+}
+h4{
+	font-size: 30px;
+}
